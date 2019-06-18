@@ -67,7 +67,7 @@ This produces the general structure of a xDSML workspace, which comprises the pr
 
 From your first instance of Eclipse (i.e. the language workbench), you must lunch a new Eclipse instance (i.e. the modeling workbench) where the plugins developped in the workspace of the language workbench will be deployed: Run -> Run Configurations -> Eclipse Application (a launch configuration is provided to you in the project of the Github repository)
 <table><tr><td bgcolor=orange>**导入language workbench之后，无法将modeling workbench打开，出现了四个missing constraint,如下图所示**</td></tr></table>
-![problem](/Users/zhouwentao/Desktop/gemocfsmmodel/problem.png)
+![problem](https://github.com/smallwhiteZ/MODELS2017Tutorial/blob/master/problem.png)
 
 
 In the modeling workbench, you must import the example model provided for the tutorial, from [MODELS2017Example](https://github.com/gemoc/MODELS2017Tutorial/blob/master/code/modelingwb/exampleModels) (**/code/modelingwb/exampleModels/**). In the project, open the file */models/testModels.aird*, and in the project explorer, open the corresping diagram. See below:
