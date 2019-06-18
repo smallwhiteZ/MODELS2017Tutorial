@@ -66,7 +66,7 @@ This produces the general structure of a xDSML workspace, which comprises the pr
 ### 2.2 Playing with the modeling workbench
 
 From your first instance of Eclipse (i.e. the language workbench), you must lunch a new Eclipse instance (i.e. the modeling workbench) where the plugins developped in the workspace of the language workbench will be deployed: Run -> Run Configurations -> Eclipse Application (a launch configuration is provided to you in the project of the Github repository)
-<table><tr><td bgcolor=orange>**导入language workbench之后，无法将modeling workbench打开，出现了四个missing constraint,如下图所示**</td></tr></table>
+<table><tr><td bgcolor=orange> **导入language workbench之后，无法将modeling workbench打开，出现了四个missing constraint,如下图所示** </td></tr></table>
 
 ![problem](https://github.com/smallwhiteZ/MODELS2017Tutorial/blob/master/problem.png)
 
